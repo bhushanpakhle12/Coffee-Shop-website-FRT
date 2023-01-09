@@ -5,4 +5,5 @@ This repository contains the code for Coffee Shop Website which is deployed on A
 # Microsoft Azure Deployment Link :
 https://zealous-ground-0d703a610.2.azurestaticapps.net
 
-# 
+# Home Page 
+<img src="img/ss1.jpg" />
